@@ -1,0 +1,5 @@
+title: "My Portfolio"
+description: "A portfolio website showcasing my AI, Machine Learning, and Data Analysis projects."
+theme: jekyll-theme-cayman  # You can choose a different theme if you want
+url: "https://your-username.github.io"  # Replace with your GitHub Pages URL
+baseurl: ""  # Leave blank for user pages, add "/repository-name" for project pages
